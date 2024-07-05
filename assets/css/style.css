@@ -699,7 +699,9 @@ body.nav-active {
 
 .social-link:is(:hover, :focus-within) {border-color: var(--white);}
 
-
+.footer-link:hover {
+  color: white;
+}
 
 
 /*-----------------------------------*\
